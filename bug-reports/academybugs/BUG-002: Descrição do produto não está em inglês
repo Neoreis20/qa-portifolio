@@ -1,0 +1,45 @@
+BUG-002: Descrição do produto não está em inglês
+
+Ambiente
+
+
+Site: https://academybugs.com
+Navegador: Todos os navegadores testados
+Data: 11/07/2026
+
+
+Tipo de problema
+
+Conteúdo
+
+Severidade
+
+Média
+
+Frequência
+
+Sempre (100% de reprodução)
+
+Passos para reproduzir
+
+
+Acessar https://academybugs.com
+Clicar no link "Encontrar erros" na barra de navegação
+Abrir a página de um produto
+
+
+Resultado esperado
+
+A descrição breve e a descrição completa do produto devem estar em inglês, consistentes com o restante do site.
+
+Resultado obtido
+
+A descrição breve e a descrição completa do produto não estão em inglês.
+
+Evidência
+
+
+
+Observações
+
+Apesar de não impedir o uso do site, esse tipo de inconsistência de conteúdo afeta a credibilidade da loja e a experiência do usuário — especialmente relevante em e-commerce, onde a descrição do produto influencia diretamente a decisão de compra.
