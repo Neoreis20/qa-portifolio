@@ -1,1 +1,33 @@
+BUG-003: Ao clicar em "Item em Destaque", a página carrega infinitamente
 
+## Ambiente
+Site: https://academybugs.com
+Navegador: Todos os navegadores testados
+Data: 11/07/2026
+
+## Tipo de problema
+Desempenho
+
+## Severidade
+Alta
+
+## Frequência
+Sempre (100% de reprodução)
+
+## Passos para reproduzir
+1. Acesse https://academybugs.com
+2. Clique no link "Encontrar erros" na barra de navegação
+3. Abra a página de um produto
+4. Na seção "Itens em Destaque" do menu lateral direito, clique em um dos produtos listados
+
+## Resultado esperado
+A página do produto selecionado deve carregar normalmente.
+
+## Resultado obtido
+A página entra em carregamento infinito e o conteúdo do produto nunca é exibido.
+
+## Evidência
+
+
+## Observações
+O usuário fica sem alternativa além de recarregar a página ou voltar, o que interrompe o fluxo de navegação e pode levar à desistência da compra.
